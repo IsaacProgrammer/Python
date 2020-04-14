@@ -1,2 +1,2 @@
 # Python
- Criando exercícios muito legal, espero que gostei!
+ Criando exercícios muito legal, espero que gostem! 
