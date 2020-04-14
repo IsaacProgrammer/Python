@@ -1,2 +1,2 @@
 # Python
- Uma batéria de exercícios que vem por aí
+ Criando exercícios muito legal, espero que gostei!
