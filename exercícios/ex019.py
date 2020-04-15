@@ -1,0 +1,6 @@
+print('-' * 50)
+print(f'{"Análise de Nomes":^50}')
+print('-' * 50)
+nome = str(input('Digite seu nome: ')).strip().title()
+print(f'Primeiro letra {nome[0]}')
+print(f'Último letra {nome[-1]}')
